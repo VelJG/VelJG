@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[TeamTomodachi](https://github.com/user-attachments/assets/0ff78dbd-96a9-4765-a19b-264396b2a4fc)
+
+![TeamTomodachi](https://github.com/user-attachments/assets/b4c849aa-e1bb-4082-b25d-039bdd1a1507)
