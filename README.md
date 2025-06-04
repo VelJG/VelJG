@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![TeamTomodachi](https://github.com/user-attachments/assets/c7c62886-ced0-404d-ab94-8e6307ce7624)
 
-https://github.com/user-attachments/assets/798fd3fb-2bee-45c9-948e-f5c4aef89fc5
 
 
