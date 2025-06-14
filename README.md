@@ -27,7 +27,7 @@
 
 ---
 
-### 📺 Subscribe to The Archiver 📺
+###  Subscribe to The Archiver of Hololive EN Advent
 
 ![channels4_banner](https://github.com/user-attachments/assets/e654e897-2376-44b5-8392-267045949a52)
 
