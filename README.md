@@ -20,8 +20,6 @@
   <br />
   🎮 Currently playing: <strong>Expedition 33</strong>
   <br />
-  💜 Devotion to Shiori Novella: <strong>Eternal</strong>
-  <br />
   ⭐ Membership status: <strong>Bookwyrm (21 months)</strong>
 </h3>
 
