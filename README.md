@@ -18,9 +18,9 @@
 <h3>
   💻 I'm currently studying <strong>Software Engineering</strong> at FPT University, leaning toward Back End Development.
   <br />
-  🎮 Currently playing: <strong>Expedition 33</strong>
+  🎮 Currently playing: <strong>Fallout 2</strong>
   <br />
-  ⭐ Membership status: <strong>Bookwyrm (21 months)</strong>
+  ⭐ Membership status: <strong>Bookwyrm (22 months)</strong>
 </h3>
 
 ---
