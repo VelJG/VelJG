@@ -22,7 +22,12 @@
   <br />
   ⭐ Membership status: <strong>Bookwyrm (22 months)</strong>
 </h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelJG)] 
 
+
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=VelJG)]
+<br/>
 ---
 
 ###  Subscribe to The Archiver of Hololive EN Advent
