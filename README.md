@@ -43,9 +43,9 @@ About Me
 Currently playing: <strong>Fallout 2</strong><br/>
  <img width="1200" height="600" alt="Fallout2" src="https://github.com/user-attachments/assets/a0c08dee-8792-4025-8a49-a48b96c714e5" />
 <br/><br/>
-<strong>Vtuber: </strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
+<strong>Watching Vtuber: </strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
 <br/><br/>
-If you do know what a Vtuber is, then welcome to the bottomless rabbit hole. 
+If you do know what a Vtuber is, then let's enjoy our stay in this bottomless rabbit hole. Cheers! 
 <br/>
 <br/>
 Membership status: <strong>Bookwyrm (22 months)</strong>
