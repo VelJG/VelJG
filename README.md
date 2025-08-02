@@ -12,15 +12,17 @@
   </a>
 
 ---
+<h2>
+About Me 
+</h2>
 
-### 📖 About Me
 
 <h3>
-  💻 I'm currently studying <strong>Software Engineering</strong> at FPT University, leaning toward Back End Development.
+  I'm currently studying <strong>Software Engineering</strong> at FPT University, specialized in Backend Development.
+ <br />
+ Languages: C#, C++, Java, JavaScript, HTML, CSS
   <br />
-  🎮 Currently playing: <strong>Fallout 2</strong>
-  <br />
-  ⭐ Membership status: <strong>Bookwyrm (22 months)</strong>
+  
 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=transparent)
@@ -29,13 +31,35 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=VelJG&theme=darkhub)
 <br/>
 ---
+<h2>
+ Hobbies <br/>
+ 
+</h2>
+<h3>
 
-###  Subscribe to The Archiver of Hololive EN Advent
+
+<strong>Games:</strong> Loved playing games since i was a little kid, especially open world games
+<br/><br/>
+Currently playing: <strong>Fallout 2</strong><br/>
+ <img width="1200" height="600" alt="Fallout2" src="https://github.com/user-attachments/assets/a0c08dee-8792-4025-8a49-a48b96c714e5" />
+<br/><br/>
+<strong>Vtuber: </strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
+<br/><br/>
+If you do know what a Vtuber is, then welcome to the bottomless rabbit hole. 
+<br/>
+<br/>
+Membership status: <strong>Bookwyrm (22 months)</strong>
+<br/>
+<br/>
+
+ Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> V
+
+</h3>
 
 ![channels4_banner](https://github.com/user-attachments/assets/e654e897-2376-44b5-8392-267045949a52)
+Subscribe to The Archiver of Hololive EN Advent
 
-<a href="https://www.youtube.com/@ShioriNovella" target="_blank">
-  <img src="https://img.shields.io/badge/Subscribe-Shiori_Novella-BB5DF7?style=social&logo=youtube" alt="Subscribe to Shiori Novella on YouTube"/>
-</a>
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShioriNovella)
 
 </div>
