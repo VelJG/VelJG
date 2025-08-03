@@ -71,15 +71,14 @@ Membership status: <strong>Bookwyrm (22 months)</strong>
 
 Subscribe to The Archiver of Hololive EN Advent
 
-<a href="https://www.youtube.com/@ShioriNovella">
-<img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
-</a>
+[![Subscribe](https://img.shields.io/badge/Subscribe-A073D6?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@ShioriNovella)
+
 </p>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VelJG&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=VelJG&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
 </div>
