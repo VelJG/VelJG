@@ -1,65 +1,85 @@
 <div align="center">
 
- <h1>
-    👋 Yo Wazzup!
+<h1>👋 Yo Wazzup!</h1>
 
- </h1>
+<img src="https://github.com/user-attachments/assets/b4c849aa-e1bb-4082-b25d-039bdd1a1507" alt="TeamTomodachi" style="width: 100%; max-width: 800px;" />
 
-  <img src="https://github.com/user-attachments/assets/b4c849aa-e1bb-4082-b25d-039bdd1a1507" alt="TeamTomodachi" style="width: 100%; max-width: 800px;" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3750&pause=100&color=BB5DF7FF&center=true&vCenter=true&width=800&height=50&lines=T-T-T-Team+Tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Oretachi+nani%3F+E%3F+Chiimu+tomodachi;Kansai+Kantou+Nishihigashi+Kitaminami;Chiimu,+chiimu,+chiimu+tomodachi;Okonomiyaki+kuu+Tsuruhashi;+Hitori+ja+sabishii+shi+denwa+kitari;T-E-A-M+T-O-M-O-D-A-C-H-I;Chiimu+tomodachi+mazari+ai;Chigirikawashi+nonderu+sake;Chigiirou,+chigiirou,+chigiirou,+chigiirou;Chiimu+tomodachi,+chiimu+tomodachi" alt="Typing SVG" />
+</a>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3750&pause=100&color=BB5DF7FF&center=true&vCenter=true&width=800&height=50&lines=T-T-T-Team+Tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Oretachi+nani%3F+E%3F+Chiimu+tomodachi;Kansai+Kantou+Nishihigashi+Kitaminami;Chiimu,+chiimu,+chiimu+tomodachi;Okonomiyaki+kuu+Tsuruhashi;+Hitori+ja+sabishii+shi+denwa+kitari;T-E-A-M+T-O-M-O-D-A-C-H-I;Chiimu+tomodachi+mazari+ai;Chigirikawashi+nonderu+sake;Chigiirou,+chigiirou,+chigiirou,+chigiirou;Chiimu+tomodachi,+chiimu+tomodachi" alt="Typing SVG" />
-  </a>
+### ✨ About Me
 
----
-<h2>
-About Me 
-</h2>
+<p align="center">
+I'm a passionate <strong>Software Engineering</strong> student at FPT University with a specialization in <strong>Backend Development</strong>.
+</p>
 
+### 🛠️ Languages & Tools
 
-<h3>
-  I'm currently studying <strong>Software Engineering</strong> at FPT University, specialized in Backend Development.
- <br />
- Languages: C#, C++, Java, JavaScript, HTML, CSS
-  <br />
-  
-</h3>
+<p align="center">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=transparent)
+### 📊 GitHub Stats & Activity
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=transparent&text_color=BB5DF7&title_color=BB5DF7" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=VelJG&theme=darkhub&column=8" /></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VelJG&theme=darkhub)
-<br/>
----
-<h2>
- Hobbies <br/>
- 
-</h2>
-<h3>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VelJG&theme=radical&bg_color=20232a&hide_border=true" /></a>
 
+### 💖 My Hobbies
 
-<strong>Games:</strong> Loved playing games since i was a little kid, especially open world games
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<h3>🎮 Gaming</h3>
+</div>
+<p align="center">
+Loved playing games since i was a little kid, especially open world games
 <br/><br/>
 Currently playing: <strong>Fallout 2</strong><br/>
- <img width="1200" height="600" alt="Fallout2" src="https://github.com/user-attachments/assets/a0c08dee-8792-4025-8a49-a48b96c714e5" />
+<img width="400" height="200" alt="Fallout2" src="https://github.com/user-attachments/assets/a0c08dee-8792-4025-8a49-a48b96c714e5" style="border-radius: 10px;" />
+</p>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3>▶ VTubers</h3>
+</div>
+<p align="center">
+<strong>Watching Vtuber:</strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
 <br/><br/>
-<strong>Watching Vtuber: </strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
-<br/><br/>
-If you do know what a Vtuber is, then let's enjoy our stay in this bottomless rabbit hole. Cheers! 
+If you do know what a Vtuber is, then let's enjoy our stay in this bottomless rabbit hole. Cheers!
 <br/>
 <br/>
+
+Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> V
+<br/><br/>
+<a href="https://www.youtube.com/@ShioriNovella">
+<img alt="Shiori Novella Banner" src="https://github.com/user-attachments/assets/e654e897-2376-44b5-8392-267045949a52" style="width: 100%; max-width: 400px; border-radius: 10px;" />
+</a>
+<br/><br/>
+
 Membership status: <strong>Bookwyrm (22 months)</strong>
 <br/>
 <br/>
 
- Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> V
-
-</h3>
-
-![channels4_banner](https://github.com/user-attachments/assets/e654e897-2376-44b5-8392-267045949a52)
 Subscribe to The Archiver of Hololive EN Advent
 
+<a href="https://www.youtube.com/@ShioriNovella">
+<img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+</a>
+</p>
+</td>
+</tr>
+</table>
 
-[![Subscribe](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShioriNovella)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VelJG&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 </div>
