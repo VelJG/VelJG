@@ -26,8 +26,13 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 </p>
 
 ### 📊 GitHub Stats & Activity
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=midnight-purple&hide_border=true)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VelJG&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=transparent&text_color=BB5DF7&title_color=BB5DF7" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=VelJG&theme=darkhub&column=8" /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VelJG&theme=radical&bg_color=20232a&hide_border=true" /></a>
