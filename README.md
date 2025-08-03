@@ -9,7 +9,10 @@
 </a>
 
 ### ✨ About Me
-
+<p align="center">
+  Hello there, my name is An Khương, nicknamed VelJG, nice to meet ya!
+</p>
+  
 <p align="center">
 I'm a passionate <strong>Software Engineering</strong> student at FPT University with a specialization in <strong>Backend Development</strong>.
 </p>
@@ -17,12 +20,9 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css&theme=dark" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats & Activity
