@@ -70,7 +70,7 @@ Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> 
 </a>
 <br/><br/>
 
-Membership status: <strong>Bookwyrm (22 months)</strong>
+Membership status: <strong>Bookwyrm (23 months)</strong>
 <br/>
 <br/>
 
