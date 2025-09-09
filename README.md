@@ -48,9 +48,10 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 <p align="center">
 Loved playing games since i was a little kid, especially open world games
 <br/><br/>
-Currently playing: <strong>Fallout 2</strong><br/>
-<img width="400" height="200" alt="Fallout2" src="https://github.com/user-attachments/assets/a0c08dee-8792-4025-8a49-a48b96c714e5" style="border-radius: 10px;" />
-</p>
+Currently playing: <strong>Dead Island 2</strong><br/> <br/>
+<img width="400" height="200" alt="DeadIsland2" src="https://github.com/user-attachments/assets/457dd305-bbc9-4e3d-b1ce-61a27e954ce8" style="border-radius: 10px;" />
+
+
 </td>
 <td width="50%" valign="top">
 <div align="center">
