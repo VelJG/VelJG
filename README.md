@@ -48,8 +48,8 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 <p align="center">
 Loved playing games since i was a little kid, especially open world games
 <br/><br/>
-Currently playing: <strong>Dead Island 2</strong><br/> <br/>
-<img width="400" height="200" alt="DeadIsland2" src="https://github.com/user-attachments/assets/457dd305-bbc9-4e3d-b1ce-61a27e954ce8" style="border-radius: 10px;" />
+Currently playing: <strong>Silksong</strong><br/> <br/>
+<img width="400" height="200" alt="DeadIsland2" src="https://github.com/user-attachments/assets/5ef684aa-3aa8-4888-895c-af01faff90f8" style="border-radius: 10px;" />
 
 
 </td>
