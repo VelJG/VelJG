@@ -48,9 +48,8 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 <p align="center">
 Loved playing games since i was a little kid, especially open world games
 <br/><br/>
-Currently playing: <strong>Silksong</strong><br/> <br/>
-<img width="400" height="200" alt="DeadIsland2" src="https://github.com/user-attachments/assets/5ef684aa-3aa8-4888-895c-af01faff90f8" style="border-radius: 10px;" />
-
+Currently playing: <strong>Shadow of War</strong><br/> <br/>
+<img width="400" height="200" alt="Shadow of War" src="https://github.com/user-attachments/assets/f8957954-5aaf-4c6b-8919-47931001fd98" style="border-radius: 10px;" />
 
 </td>
 <td width="50%" valign="top">
