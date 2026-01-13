@@ -21,7 +21,7 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,js,html,css,aws&theme=dark" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> 
 </a>
 <br/><br/>
 
-Membership status: <strong>Bookwyrm (23 months)</strong>
+Membership status: <strong>Bookwyrm (27 months)</strong>
 <br/>
 <br/>
 
