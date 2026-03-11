@@ -37,51 +37,7 @@ I'm a passionate <strong>Software Engineering</strong> student at FPT University
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VelJG&theme=radical&bg_color=20232a&hide_border=true" /></a>
 
-### 💖 My Hobbies
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-<h3>🎮 Gaming</h3>
-</div>
-<p align="center">
-Loved playing games since i was a little kid, especially open world games
-<br/><br/>
-Currently playing: <strong>Shadow of War</strong><br/> <br/>
-<img width="400" height="200" alt="Shadow of War" src="https://github.com/user-attachments/assets/f8957954-5aaf-4c6b-8919-47931001fd98" style="border-radius: 10px;" />
-
-</td>
-<td width="50%" valign="top">
-<div align="center">
-<h3>▶ VTubers</h3>
-</div>
-<p align="center">
-<strong>Watching Vtuber:</strong> If you don't know what a Vtuber is, they are essentially just streamer operating behind an virtual anime model. Some of the time they're idols, all of the time they're comedians.
-<br/><br/>
-If you do know what a Vtuber is, then let's enjoy our stay in this bottomless rabbit hole. Cheers!
-<br/>
-<br/>
-
-Anyway check out this lovely lady whom I've sold my soul to <br/> |<br/> |<br/> V
-<br/><br/>
-<a href="https://www.youtube.com/@ShioriNovella">
-<img alt="Shiori Novella Banner" src="https://github.com/user-attachments/assets/e654e897-2376-44b5-8392-267045949a52" style="width: 100%; max-width: 400px; border-radius: 10px;" />
-</a>
-<br/><br/>
-
-Membership status: <strong>Bookwyrm (27 months)</strong>
-<br/>
-<br/>
-
-Subscribe to The Archiver of Hololive EN Advent
-
-[![Subscribe](https://img.shields.io/badge/Subscribe-A073D6?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@ShioriNovella)
-
-</p>
-</td>
-</tr>
-</table>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=VelJG&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="Profile views" />
