@@ -135,11 +135,11 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VelJG&theme=transparent&hide_border=true" alt="GitHub streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VelJG&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img width="390" src="https://github-stats-extended.vercel.app/api?username=VelJG&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelJG&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VelJG&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
 </div>
 
 <p align="left">
