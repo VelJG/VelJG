@@ -116,6 +116,14 @@
 <!-- certifications:end -->
 ## 🌱 Community & Leadership
 
+<div align="center">
+  <a href="https://cloudjourney.awsstudygroup.com/">
+    <img src="assets/fcaj-banner.png" alt="AWS First Cloud Journey AI banner" width="720" />
+  </a>
+</div>
+
+<br />
+
 - **FCAJ Community — Member → Program Administrator** — Active in the FCAJ community for nearly a year, learning AWS through hands-on workshops, peer support, and community-driven cloud projects. Recently stepped into a program administrator role, helping coordinate activities, support participants, and keep the learning program organized while deepening my practical understanding of AWS services and cloud architecture.
 ## 📚 Education
 
