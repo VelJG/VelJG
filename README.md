@@ -132,9 +132,9 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle" align="center">
       <p>
-        Devoted Novelite 👁️‍🗨️.  <br> I like projects that feel alive: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people smile before they notice the engineering underneath is serious.
+        Devoted Novelite 👁️‍🗨️  <br> I like projects that feel alive: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people smile before they notice the engineering underneath is serious.
       </p>
       <p>
        <b>We ball. Build it, break it, try again.</b>
@@ -160,6 +160,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VelJG&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=VelJG&color=6C63FF" alt="Profile views" />
 </p>
