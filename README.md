@@ -125,7 +125,9 @@
     <td width="50%" align="center" valign="middle">
       <img src="assets/team-tomodachi.gif" alt="Team Tomodachi GIF" width="100%" />
       <br />
-      <sub><b>T-E-A-M T-O-M-O-D-A-C-H-I</b></sub>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3750&pause=100&color=BB5DF7FF&center=true&vCenter=true&width=520&height=50&lines=T-T-T-Team+Tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Chiimu+tomodachi,+chiimu+tomodachi;Oretachi+nani%3F+E%3F+Chiimu+tomodachi;Kansai+Kantou+Nishihigashi+Kitaminami;Chiimu,+chiimu,+chiimu+tomodachi;Okonomiyaki+kuu+Tsuruhashi;+Hitori+ja+sabishii+shi+denwa+kitari;T-E-A-M+T-O-M-O-D-A-C-H-I;Chiimu+tomodachi+mazari+ai;Chigirikawashi+nonderu+sake;Chigiirou,+chigiirou,+chigiirou,+chigiirou;Chiimu+tomodachi,+chiimu+tomodachi" alt="Team Tomodachi typing effect" />
+      </a>
     </td>
   </tr>
 </table>
