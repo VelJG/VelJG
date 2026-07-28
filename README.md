@@ -114,6 +114,9 @@
   </tr>
 </table>
 <!-- certifications:end -->
+
+<br />
+
 ## 🌱 Community & Leadership
 
 <div align="center">
@@ -125,6 +128,9 @@
 <br />
 
 - **FCAJ Community — Member → Program Administrator** — Active in the FCAJ community for nearly a year, learning AWS through hands-on workshops, peer support, and community-driven cloud projects. Recently stepped into a program administrator role, helping coordinate activities, support participants, and keep the learning program organized while deepening my practical understanding of AWS services and cloud architecture.
+
+<br />
+
 ## 📚 Education
 
 - **FPT University** — Final-year Bachelor of Software Engineering student<br>`Oct 2023 – Dec 2027`
@@ -136,7 +142,7 @@
 - Combining backend/product engineering with AI-heavy development workflows.
 - Improving Vietnamese-language AI data handling, testing, and edge-case discovery.
 
-## Still Human
+<br />
 
 <table>
   <tr>
