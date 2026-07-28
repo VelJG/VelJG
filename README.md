@@ -148,7 +148,7 @@
   <tr>
     <td width="50%" valign="middle" align="center">
       <p>
-        Devoted Novelite 👁️‍🗨️  <br> I like projects that feel alive: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people smile before they notice the engineering underneath is serious.
+        Devoted Novelite 👁️‍🗨️  <br> I like projects that make me try new things: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people interested, cool things essentially.
       </p>
       <p>
        <b>We ball. Build it, break it, try again.</b>
