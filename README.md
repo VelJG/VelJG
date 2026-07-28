@@ -77,7 +77,7 @@
 
 ## 🏆 Hackathon & AI Product Work
 
-- 🧠 **[S.H.E.P.H.E.R.D.](https://github.com/VelJG/S.H.E.P.H.E.R.D)** — Built for **Agentic AI Build Week (AABW) Hackathon 2026** — **Top 6, Built with AWS Track**. Real-time venue safety dashboard combining YOLO-based people detection, zone-level crowd analytics, congestion prediction, alerts, and an operations copilot for dispatch recommendations. Built with React/Vite, FastAPI microservices, Docker Compose, and an OpenAI-compatible agent layer.
+- 📸 **[S.H.E.P.H.E.R.D.](https://github.com/VelJG/S.H.E.P.H.E.R.D)** — Built for **Agentic AI Build Week (AABW) Hackathon 2026** — **Top 6, Built with AWS Track**. Real-time venue safety dashboard combining YOLO-based people detection, zone-level crowd analytics, congestion prediction, alerts, and an operations copilot for dispatch recommendations. Built with React/Vite, FastAPI microservices, Docker Compose, and an OpenAI-compatible agent layer.
 
 - 🥇 **VALSEA EdTech System Sprint (HCM)** — **1st Place Winner**. Selected after the hackathon to continue productizing the winning idea with VALSEA.
 
@@ -94,14 +94,7 @@
 
 ## 🧩 Full-Stack Engineering
 
-- 🐱 **[LoafNCattingPRN232](https://github.com/VelJG/LoafNCattingPRN232)** — Full-stack cat-café operations platform with React/TypeScript frontend and ASP.NET Core backend. Covers reservations, ordering, admin workflows, JWT auth, SignalR chat/notifications, PayOS payment links, S3 media storage, EF Core SQL Server persistence, and automated tests.
-
-<details>
-<summary><b>Older coursework / archive</b></summary>
-
-I keep older university projects public as a learning trail, but they are not my main engineering focus today. My current direction is full-stack product engineering + Generative AI systems.
-
-</details>
+- 🐱 **[LoafNCatting](https://github.com/VelJG/LoafNCattingPRN232)** — Full-stack cat-café operations platform with React/TypeScript frontend and ASP.NET Core backend. Covers reservations, ordering, admin workflows, JWT auth, SignalR chat/notifications, PayOS payment links, S3 media storage, EF Core SQL Server persistence, and automated tests.
 
 ## 🌱 Community & Leadership
 
@@ -123,10 +116,10 @@ I keep older university projects public as a learning trail, but they are not my
   <tr>
     <td width="50%" valign="top">
       <p>
-        Hololive enjoyer, mascot believer, and chaos-friendly builder. I like projects that feel alive: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people smile before they notice the engineering underneath is serious.
+        Devoted Novelite 👁️‍🗨️.  <br> I like projects that feel alive: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people smile before they notice the engineering underneath is serious.
       </p>
       <p>
-        My build philosophy is simple: <b>We ball. Build it, break it, try again.</b>
+       <b>We ball. Build it, break it, try again.</b>
       </p>
     </td>
     <td width="50%" align="center" valign="middle">
