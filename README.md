@@ -96,6 +96,24 @@
 
 - 🐱 **[LoafNCatting](https://github.com/VelJG/LoafNCattingPRN232)** — Full-stack cat-café operations platform with React/TypeScript frontend and ASP.NET Core backend. Covers reservations, ordering, admin workflows, JWT auth, SignalR chat/notifications, PayOS payment links, S3 media storage, EF Core SQL Server persistence, and automated tests.
 
+## 🪪 Certifications
+
+<!-- certifications:start -->
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/b4b90c9b-5488-4175-a93c-aaa93cc4e1e5/public_url">
+        <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="120" />
+      </a>
+      <br />
+      <b>AWS Certified AI Practitioner</b>
+      <br />
+      <sub>AWS · AI/ML · Generative AI</sub>
+    </td>
+    <!-- Add more certifications by copying one <td>...</td> block here. -->
+  </tr>
+</table>
+<!-- certifications:end -->
 ## 🌱 Community & Leadership
 
 - **FCAJ Community — Member → Program Administrator** — Active in the FCAJ community for nearly a year, learning AWS through hands-on workshops, peer support, and community-driven cloud projects. Recently stepped into a program administrator role, helping coordinate activities, support participants, and keep the learning program organized while deepening my practical understanding of AWS services and cloud architecture.
