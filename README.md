@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=30&center=true&duration=3800&color=6C63FF&width=820&lines=Hi%2C+I'm+Hu%E1%BB%B3nh+An+Kh%C6%B0%C6%A1ng;Full-Stack+Engineer;Generative+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=30&center=true&duration=3800&color=6C63FF&width=820&lines=Hi%2C+I'm+Hu%E1%BB%B3nh+An+Kh%C6%B0%C6%A1ng;Software+Engineer;Product+Builder+%7C+AI+%2F+Cloud+%2F+Full-Stack" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  📍 <b>Ho Chi Minh City, Vietnam</b> &nbsp;|&nbsp; 🧩 <b>Full-Stack Engineer</b> &nbsp;|&nbsp; 🤖 <b>Generative AI Engineer</b> &nbsp;|&nbsp; 🎓 <b>Final-year Software Engineering Student @ FPT University</b>
+  📍 <b>Ho Chi Minh City, Vietnam</b> &nbsp;|&nbsp; 🛠️ <b>Software Engineer / Product Builder</b> &nbsp;|&nbsp; 🎓 <b>Final-year Software Engineering Student @ FPT University</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 > "Who says you have to? You don’t have to be the greatest ever, you just have to be the greatest you."
 >
-> I build full-stack products with AI-heavy workflows: LLM applications, agentic copilots, RAG/context systems, evaluation loops, guardrail-minded product flows, and backend/frontend systems that turn hackathon ideas into working software.
+> I build software across AI, cloud, and product engineering: from computer vision and LLM workflows to backend services, mobile apps, and full-stack interfaces that turn ideas into working software.
 
 ## Tech I Work With
 
@@ -37,8 +37,9 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Generative AI / AI systems:** LLM applications, RAG, prompt engineering, AI-assisted development workflows, evaluation harnesses, guardrails, knowledge-base design, AI output QA, Vietnamese language/slang data workflows.<br>
-**Developer workflow:** Docker, AWS, Codex, Cursor, Kiro, Git, API testing, full-stack debugging, product documentation.
+**AI / ML systems:** Computer vision, YOLO, ByteTrack, PyTorch, Transformers, Whisper/XLS-R, audio forensics, LLM applications, RAG workflow design, agentic AI/copilots, evaluation harnesses, guardrails, AI output QA, Vietnamese slang data workflows.<br>
+**Cloud / Backend:** AWS, Docker, ECS/Fargate, S3, Lambda, Step Functions, GuardDuty, API Gateway, DynamoDB, FastAPI, ASP.NET Core, Node.js, REST APIs.<br>
+**Developer workflow:** Git, GitHub, Postman, Codex, Cursor, Kiro, spec-driven development, full-stack debugging, product documentation.
 
 # Selected Work
 
@@ -58,9 +59,9 @@
       <img src="assets/mascoteach-avatar.png" alt="Mascoteach mascot avatar" width="150" />
     </td>
     <td>
-      <h3>🤖 Mascoteach — EXE Funnovah</h3>
-      <p>
-        Current EdTech startup project: a full-stack learning companion platform where teachers turn documents into quizzes/minigames, students interact with a Mascot AI, and the product expands across web, backend, AI service, Flutter mobile app, and Mascobot robot firmware.
+       <h3>🤖 Mascoteach — Funnovah</h3>
+       <p>
+         Current EdTech startup product: an AI learning companion platform spanning web, backend, AI service, and Flutter mobile app. Designed document workflows for RAG features, including S3 storage, ownership metadata, extraction, chunking, and vectorization.
       </p>
       <p>
         <a href="https://mascoteach.com"><b>Live Website</b></a> ·
@@ -69,32 +70,41 @@
         <a href="https://github.com/EXE-Funovah/Mobile">Mobile</a>
       </p>
       <p>
-        <b>Stack:</b> React/Vite, ASP.NET Core, TypeScript/Express/OpenAI, Flutter, SignalR/WebRTC-style interaction, ESP32/MK101 firmware.
+         <b>Stack:</b> React/Vite, ASP.NET Core, TypeScript/Express/OpenAI, Flutter, S3, and document-based RAG workflows.
       </p>
     </td>
   </tr>
 </table>
 
-## 🏆 Hackathon & AI Product Work
+## 💼 Engineering Experience
 
-- 📸 **[S.H.E.P.H.E.R.D.](https://github.com/VelJG/S.H.E.P.H.E.R.D)** — Built for **Agentic AI Build Week (AABW) Hackathon 2026** — **Top 6, Built with AWS Track**. Real-time venue safety dashboard combining YOLO-based people detection, zone-level crowd analytics, congestion prediction, alerts, and an operations copilot for dispatch recommendations. Built with React/Vite, FastAPI microservices, Docker Compose, and an OpenAI-compatible agent layer.
+I work across AI product engineering, cloud infrastructure, full-stack systems, and community-driven learning rather than staying inside one narrow role.
 
-- 🥇 **VALSEA EdTech System Sprint (HCM)** — **1st Place Winner**. Selected after the hackathon to continue productizing the winning idea with VALSEA.
+- **Funnovah — Product Engineering** · `2026 – Present`<br>
+  Building Mascoteach across web, backend, AI service, and mobile; designed S3-backed document workflows for RAG features.
 
-- 🎙️ **[SynthHunter](https://github.com/quanntm1206/LotusHack)** — **Top 21 Lotus Hack** project. Built a full-stack AI audio-forensics platform for detecting synthetic consultation recordings, using React/Vite, AWS Cognito, API Gateway, S3 uploads, DynamoDB verdict storage, and a Python ensemble pipeline combining XLS-R, Whisper, and pause-pattern analysis.
+- **VALSEA - Memora — Product Engineering** · `Apr 2026 – May 2026`<br>
+  Helped turn the VALSEA EdTech System Sprint (HCM) concept into a pitch-ready AI product MVP over 3 weeks. QA-tested 3 AI workflows---transcription, translation, and sentiment tracking---and prepared Vietnamese slang data.
 
-- 🎬 **[Launchly](https://github.com/AWS-Ballers/Unbound)** — Built for **Unbound Hack**. Full-stack GenAI launch-video workspace that turns GitHub repos, product URLs, and docs into AI-generated briefs, PixVerse-powered videos/images, editable launch assets, and shareable product packages using Next.js, Prisma/Postgres, OpenAI, and Auth.js.
+- **AWS First Cloud Journey AI (FCAJ) — Cloud Engineering** · `Aug 2025 – Dec 2025`<br>
+  Built AWS Incident Response Automation as an internship project. Orchestrated 3 containment actions---EC2 isolation, IAM quarantine, and ASG detachment---across GuardDuty, CloudTrail, and VPC Flow Logs, with an estimated low-volume cost of about **US$3/month**.
 
-## 🧠 Generative AI Products
+- **FCAJ — Community / Program Operations** · `2025 – Present`<br>
+  Support AWS learning programs through workshop coordination, participant support, peer learning, and community operations.
 
-- 📝 **Memora — VALSEA Client Productization Engagement** — Real Generative AI EdTech product engagement initiated after winning 1st place at the VALSEA EdTech System Sprint (HCM). Served as lead full-stack developer, turning the hackathon concept into a pitch-ready product over a 3-week sprint; integrated VALSEA transcription/translation/sentiment APIs, supported Vietnamese slang-heavy data preparation, and QA-tested AI outputs for edge cases, API faults, parameter behavior, and product-readiness gaps.
-## ☁️ Cloud, Security & AWS
+## 🏆 Selected Projects
 
-- 🛡️ **[AWS Incident Response Automation](https://github.com/VelJG/aws-incident-response-automation-cdk)** — **Top 1 internship project**. Automated AWS incident-response and forensics system using CDK, GuardDuty, EventBridge, Step Functions, Lambda, Kinesis Firehose, S3, Glue, Athena, Cognito, and a React dashboard to detect threats, isolate compromised resources, collect evidence, and support forensic investigation.
+- 📸 **[S.H.E.P.H.E.R.D.](https://github.com/VelJG/S.H.E.P.H.E.R.D)** — **AABW 2026 project**. Computer-vision and agentic-AI operations dashboard using YOLO people detection, ByteTrack-style tracking, zone analytics, congestion prediction, alerts, and an operations copilot. Built with React/Vite, FastAPI, Python, OpenCV/YOLO, Docker, ECS/Fargate, DynamoDB, and AWS-oriented architecture.
 
-## 🧩 Full-Stack Engineering
+- 🎙️ **[SynthHunter](https://github.com/quanntm1206/LotusHack)** — **Lotus Hack project**. AI-generated audio detection platform using React/Vite, AWS Cognito, API Gateway, S3, and a Python pipeline combining 3 signals: XLS-R features, Whisper encoder analysis, and pause-pattern statistics.
 
-- 🐱 **[LoafNCatting](https://github.com/VelJG/LoafNCattingPRN232)** — Full-stack cat-café operations platform with React/TypeScript frontend and ASP.NET Core backend. Covers reservations, ordering, admin workflows, JWT auth, SignalR chat/notifications, PayOS payment links, S3 media storage, EF Core SQL Server persistence, and automated tests.
+- 🛡️ **[AWS Incident Response Automation](https://github.com/VelJG/aws-incident-response-automation-cdk)** — Configurable AWS incident-response and forensics platform with automated resource isolation, IAM quarantine, evidence collection, ETL processing, Glue/Athena investigation, and a React dashboard.
+
+## 🧩 Other Projects
+
+- 🎬 **[Launchly](https://github.com/AWS-Ballers/Unbound)** — Full-stack GenAI launch-video workspace that turns GitHub repositories, product URLs, and documentation into AI-generated briefs, editable launch assets, and shareable product packages using Next.js, Prisma/Postgres, OpenAI, and Auth.js.
+
+- 🐱 **[LoafNCatting](https://github.com/VelJG/LoafNCattingPRN232)** — Full-stack cat-café operations platform with React/TypeScript and ASP.NET Core, covering reservations, ordering, admin workflows, JWT authentication, SignalR notifications, PayOS payment links, S3 media storage, and SQL Server persistence.
 
 ## 🪪 Certifications
 
@@ -141,7 +151,7 @@
 
 ## 📚 Education
 
-- **FPT University** — Final-year Bachelor of Software Engineering student<br>`Oct 2023 – Dec 2027`
+- **FPT University** — Bachelor of Software Engineering<br>`Oct 2023 – Dec 2027`
 
 ## Current Focus
 
@@ -156,7 +166,7 @@
   <tr>
     <td width="50%" valign="middle" align="center">
       <p>
-        Devoted Novelite 👁️‍🗨️  <br> I like projects that make me try new things: robots, AI copilots, interactive dashboards, weird prototypes, and products that make people interested, cool things essentially.
+        Devoted Novelite 👁️‍🗨️  <br> I like projects that make me try new things: AI copilots, interactive dashboards, weird prototypes, and products that make people interested, cool things essentially.
       </p>
       <p>
        <b>We ball. Build it, break it, try again.</b>
