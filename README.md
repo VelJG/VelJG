@@ -14,8 +14,11 @@
 
 ---
 
-> "Who says you have to? You don’t have to be the greatest ever, you just have to be the greatest you."
->
+<div align="center">
+  <h2>“Who says you have to?”</h2>
+  <h3>You don’t have to be the greatest ever.<br />You just have to be the greatest you.</h3>
+</div>
+
 > I build software across AI, cloud, and product engineering: from computer vision and LLM workflows to backend services, mobile apps, and full-stack interfaces that turn ideas into working software.
 
 ## Tech I Work With
